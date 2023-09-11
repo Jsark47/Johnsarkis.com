@@ -10865,6 +10865,9 @@ hr.divider-light {
 }
 
 hr.divider-primary {
+  height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 1.5rem auto;
   background-color: #f4623a;
 }
 
