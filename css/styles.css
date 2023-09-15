@@ -3958,7 +3958,6 @@ textarea.form-control-lg {
     overflow-y: visible;
   }
 }
-
 @media (min-width: 992px) {
   .navbar-expand-lg {
     flex-wrap: nowrap;
